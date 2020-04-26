@@ -1,0 +1,101 @@
+
+body {
+    background-color: #FFFF99
+}
+
+#border {
+    border: 1px maroon solid;
+    padding: 7.5px;
+}
+
+a.nodec {
+    text-decoration: none;
+}
+
+#title {
+    background-color: lightblue;
+    color: white;
+    font-variant: small-caps;
+    padding: 5px;
+}
+
+blockquote {
+    width: 210px;
+    float: right;
+    text-align: left;
+    font-style: italic;
+    font-size: large;
+    margin: 0px;
+    padding: 5pt;
+}
+
+#textsection {
+    border: 2.5px;
+    background-color: green;
+    font-size: small;
+    color: white;
+    padding: 10px;
+}
+
+#content {
+    font-size: medium;
+    font-style: italic;
+}
+
+#main {
+    font-size: large;
+    color: red;
+}
+
+.auto-style1 {
+    font-size: x-large;
+    color: #800000;
+}
+
+.auto-style2 {
+    color: #800000;
+}
+
+.auto-style3 {
+    font-size: xx-large;
+}
+
+.auto-style4 {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+}
+
+.auto-style6 {
+    font-size: xx-large;
+    color: black;
+}
+
+.auto-style7 {
+    font-size: x-large;
+}
+
+.auto-style8 {
+    color: #800000;
+    font-style: italic;
+}
+
+.auto-style9 {
+    font-size: xx-large;
+    font-style: italic;
+}
+
+.auto-style10 {
+    font-size: xx-large;
+    color: #800000;
+    font-style: italic;
+}
+
+.auto-style11 {
+    font-size: xx-large;
+    color: #800000;
+}
+
+.auto-style12 {
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande", "Lucida Sans", Arial, sans-serif;
+    color: black;
+    font-weight: bold;
+}
